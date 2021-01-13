@@ -268,7 +268,7 @@ class HomePageState extends State<HomePage> {
               padding: EdgeInsets.symmetric(horizontal: 40.0, vertical: 10.0),
             ),
             onPressed: () {
-              print('Gradient RaisedButton clicked');
+              
             },
           ),
         ),
