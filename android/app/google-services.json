@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321355162397",
+    "project_id": "onebookbiz",
+    "storage_bucket": "onebookbiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321355162397:android:042015e11bef0f5d7e77f4",
+        "android_client_info": {
+          "package_name": "com.example.demo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321355162397-mg8tmejlhibsmo3r9dq84ddtj0nevppn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3llVo3FI3K5L6MEOZaBlLC90P1NRNSuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321355162397-mg8tmejlhibsmo3r9dq84ddtj0nevppn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
